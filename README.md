@@ -58,7 +58,7 @@ cd booking-app
 ### 2. Install Dependencies
 
 ```bash
-npx expo install react-native-screens react-native-safe-area-context
+npx expo install
 ```
 
 ### 3. Run with Expo
